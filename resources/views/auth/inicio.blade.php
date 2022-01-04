@@ -3569,7 +3569,7 @@ iframe {
         </div>
     </div>
 
-    <footer>Un proyecto desarrollado por EICHE - V2.0</footer>
+    <footer>Un proyecto desarrollado por EICHE - V2.0.0</footer>
     <!-- this template is made by silvan paul -->
 </body>
 </html>
