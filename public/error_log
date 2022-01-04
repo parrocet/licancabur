@@ -1,0 +1,539 @@
+[17-Mar-2020 22:45:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home2/parrocet/repositories/Bienen/vendor/dompdf/dompdf/src/Cellmap.php on line 585
+[17-Mar-2020 22:47:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home2/parrocet/repositories/Bienen/vendor/dompdf/dompdf/src/Cellmap.php on line 585
+[18-Jul-2020 02:53:36 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 02:53:36 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:23:13 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:23:13 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:27 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:27 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:40 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:40 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:45:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:46:03 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:46:03 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:46:12 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:46:12 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:54:58 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:55:20 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:55:20 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:56:26 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:56:26 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:56:59 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:56:59 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:57:06 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:57:06 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:57:13 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:57:13 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:59:49 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 08:59:49 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:03:56 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:03:56 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:14:21 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:14:21 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:14:32 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:14:32 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:15:01 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:15:01 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:15:56 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:15:56 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:03 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:03 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:26 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:26 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:32 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:16:32 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:05 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:05 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:20 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:20 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:17:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:18:12 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:18:12 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:19:22 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:19:22 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:20:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[18-Jul-2020 09:20:57 America/Santiago] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home2/parrocet/repositories/Bienen/vendor/laravel/framewo in /home2/parrocet/repositories/Bienen/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[11-Sep-2020 15:54:34 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:34 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:34 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:42 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:42 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:42 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:58 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:58 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:54:58 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:56:19 America/Chicago] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Contracts\Debug\ExceptionHandler::report(Throwable $e) in /home2/parrocet/repositories/Bienen/app/Exceptions/Handler.php on line 8
+[11-Sep-2020 15:56:22 America/Chicago] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Contracts\Debug\ExceptionHandler::report(Throwable $e) in /home2/parrocet/repositories/Bienen/app/Exceptions/Handler.php on line 8
+[11-Sep-2020 15:56:26 America/Chicago] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Contracts\Debug\ExceptionHandler::report(Throwable $e) in /home2/parrocet/repositories/Bienen/app/Exceptions/Handler.php on line 8
+[11-Sep-2020 15:56:40 America/Chicago] PHP Fatal error:  Declaration of App\Exceptions\Handler::report(Exception $exception) must be compatible with Illuminate\Contracts\Debug\ExceptionHandler::report(Throwable $e) in /home2/parrocet/repositories/Bienen/app/Exceptions/Handler.php on line 8
+[11-Sep-2020 15:58:49 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:58:49 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 15:58:49 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:02 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:02 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:02 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:05 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:05 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:05 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:25 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:25 America/Chicago] PHP Warning:  require(/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/parrocet/repositories/Bienen/public/index.php on line 24
+[11-Sep-2020 16:01:25 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/parrocet/repositories/Bienen/public/../vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home2/parrocet/repositories/Bienen/public/index.php on line 24
